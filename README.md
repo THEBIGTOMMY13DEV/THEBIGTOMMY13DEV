@@ -186,13 +186,16 @@ Mission:
 
 ---
 
-# 🎮 DISCORD STATUS
+# 🎮 Discord Presence
 
-> Replace YOUR_DISCORD_ID with your actual Discord User ID.
+<div align="center">
 
-```html
-<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&animated=true&borderRadius=20px">
-```
+<a href="https://discord.com/users/790646387062472736">
+<img src="https://lanyard.cnrad.dev/api/790646387062472736?theme=dark&animated=true&idleMessage=Probably+coding+or+breaking+Linux...&borderRadius=20px"/>
+
+</a>
+
+</div>
 
 ---
 
